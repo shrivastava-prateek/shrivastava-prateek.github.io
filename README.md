@@ -60,20 +60,22 @@
 
 ### &#x1f4c8; My GitHub Stats<br/>
 
-  <img align="center" width = "51%" src="https://github-readme-stats.vercel.app/api?username=shrivastava-prateek&show_icons=true&include_all_commits=true&theme=gotham" alt="Prateek Shrivastava's github stats" />
+  <img align="left" width = "51%" src="https://github-readme-stats.vercel.app/api?username=shrivastava-prateek&show_icons=true&include_all_commits=true&theme=gotham" alt="Prateek Shrivastava's github stats" />
 
-  <img align="right" width = "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastava-prateek&layout=compact&theme=gotham" />
+  <img align="center" width = "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastava-prateek&layout=compact&theme=gotham" />
 
----
+
 
 <!-- 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shrivastava-prateek&hide_title=true&hide_border=true&langs_count=5) -->
 
+---
+
 ### 🗂️ Highlighted Projects
 
 <a href="https://github.com/shrivastava-prateek/angularjs-es6-webpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=angularjs-es6-webpack&show_icons=true&line_height=27&layout=compact&theme=gotham" alt="angularjs-es6-webpack" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=angularjs-es6-webpack&show_icons=true&line_height=27&layout=compact&theme=gotham" alt="angularjs-es6-webpack" />
 </a>
 
 <a href="https://github.com/shrivastava-prateek/online-jsp-compiler">
