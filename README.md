@@ -24,67 +24,66 @@
 
 ---
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧 <br>
 
 [<img src="https://spotify-now-playing-nikvq93oc-shrivastava-prateek.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/djayes90vzztiaae5j03620hp)
 
 ---
 
-### &#127942; Languages and Tools <br/>
-<p>
-<a href="https://angular.io" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="30px" /></a>
-<a href="https://www.arduino.cc/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/arduino.svg" alt="arduino" width="30px" /> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="30px" /> </a> 
-<a href="https://git-scm.com/" target="_blank">  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="30px" /> </a>
-<a href="https://gulpjs.com" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gulp.svg" alt="gulp" width="30px" /> </a> 
-<a href="https://heroku.com" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" alt="heroku" width="30px" /> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="html5" width="30px" /> </a> 
-<a href="https://www.java.com" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="java" width="30px" /> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" width="30px" /> </a> 
-<a href="https://www.jenkins.io" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" alt="jenkins" width="30px" /> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" alt="linux" width="30px" />  </a> 
-<a href="https://www.oracle.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" alt="oracle" width="30px" /> </a> 
-<a href="https://postman.com" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postman.svg" alt="postman" width="30px" /> </a> 
-<a href="https://spring.io/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" alt="spring" width="30px" /> </a> 
-<a href="https://webpack.js.org" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webpack.svg" alt="webpack" width="30px" /> </a>
-</p><br/>
+### &#127942; Languages and Tools <br>
 
+<p align="left">
+<a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="35px" /></a>
+<a href="https://www.arduino.cc/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/arduino.svg" alt="arduino" width="30px" /> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="30px" /> </a> 
+<a href="https://git-scm.com/" target="_blank">  <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="30px" /> </a>
+<a href="https://gulpjs.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gulp.svg" alt="gulp" width="30px" /> </a> 
+<a href="https://heroku.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" alt="heroku" width="30px" /> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="html5" width="30px" /> </a> 
+<a href="https://www.java.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="java" width="30px" /> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" width="30px" /> </a> 
+<a href="https://www.jenkins.io" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" alt="jenkins" width="30px" /> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" alt="linux" width="30px" />  </a> 
+<a href="https://www.oracle.com/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" alt="oracle" width="30px" /> </a> 
+<a href="https://postman.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postman.svg" alt="postman" width="30px" /> </a> 
+<a href="https://spring.io/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" alt="spring" width="30px" /> </a> 
+<a href="https://webpack.js.org" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webpack.svg" alt="webpack" width="30px" /> </a>
+</p>
 
 ---
 
 
-### &#x1f4c8; GitHub Trophies<br/>
+### &#x1f4c8; GitHub Trophies <br>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=shrivastava-prateek&theme=onedark&column=7)
 
 
-### &#x1f4c8; My GitHub Stats<br/>
+### &#x1f4c8; My GitHub Stats <br>
 
-  <img align="left" width = "51%" src="https://github-readme-stats.vercel.app/api?username=shrivastava-prateek&show_icons=true&include_all_commits=true&theme=gotham" alt="Prateek Shrivastava's github stats" />
+<img align="left" width = "51%" src="https://github-readme-stats.vercel.app/api?username=shrivastava-prateek&show_icons=true&include_all_commits=true&theme=gotham" alt="Prateek Shrivastava's github stats" />
 
-  <img align="center" width = "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastava-prateek&layout=compact&theme=gotham" />
+<img align="center" width = "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivastava-prateek&layout=compact&theme=gotham" />
 
-
-
-<!-- 📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shrivastava-prateek&hide_title=true&hide_border=true&langs_count=5) -->
 
 ---
 
-### 🗂️ Highlighted Projects
+### 🗂️ Highlighted Projects <br>
 
 <a href="https://github.com/shrivastava-prateek/angularjs-es6-webpack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=angularjs-es6-webpack&show_icons=true&line_height=27&layout=compact&theme=gotham" alt="angularjs-es6-webpack" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=angularjs-es6-webpack&show_icons=true&layout=compact&theme=gotham" alt="angularjs-es6-webpack" />
 </a>
 
 <a href="https://github.com/shrivastava-prateek/online-jsp-compiler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&line_height=27&layout=compact&theme=gotham" alt="online-jsp-compiler" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&layout=compact&theme=gotham" alt="online-jsp-compiler" />
 </a>
 
 
 <!-- ![build](https://github.com/shrivastava-prateek/shrivastava-prateek/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shrivastava-prateek/shrivastava-prateek)
 ![pv](https://pageview.vercel.app/?github_user=shrivastava-prateek) -->
+
+<!-- 📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shrivastava-prateek&hide_title=true&hide_border=true&langs_count=5) -->
 
 ---
