@@ -13,5 +13,5 @@ jobs:
       with:
         source_repo: ${{ secrets.SOURCE_REPO }}
         source_branch: "master"
-        destination_branch: ${{ secrets.INTERMEDIATE_BRANCH }}
+        destination_branch: "shrivastava-prateek.github.io/master"
         github_token: ${{ secrets.GITHUB_TOKEN }}
