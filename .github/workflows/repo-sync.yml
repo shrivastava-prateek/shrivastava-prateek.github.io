@@ -13,5 +13,5 @@ jobs:
       with:
         source_repo: "shrivastava-prateek/shrivastava-prateek"
         source_branch: "master"
-        destination_branch: "shrivastava-prateek.github.io/master"
+        destination_branch: "shrivastava-prateek/shrivastava-prateek.github.io/master"
         github_token: ${{ secrets.GITHUB_TOKEN }}
