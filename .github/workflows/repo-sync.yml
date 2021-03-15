@@ -15,9 +15,3 @@ jobs:
         source_branch: "master"
         destination_branch: ${{ secrets.INTERMEDIATE_BRANCH }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
-    - uses: repo-sync/pull-request@v2
-      name: Create pull request
-      with:
-        source_branch: ${{ secrets.INTERMEDIATE_BRANCH }}
-        destination_branch: "master"
-        github_token: ${{ secrets.GITHUB_TOKEN }}
