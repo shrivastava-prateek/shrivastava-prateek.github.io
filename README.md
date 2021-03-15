@@ -30,7 +30,7 @@
 
 ---
 
-### &#127942; Languages and Tools <br>
+### &#127942; Languages and Tools <br> 
 
 <p align="left">
 <a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="35px" /></a>
@@ -41,7 +41,7 @@
 <a href="https://heroku.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" alt="heroku" width="30px" /> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" alt="html5" width="30px" /> </a> 
 <a href="https://www.java.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="java" width="30px" /> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" width="30px" /> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="javascript" width="30px" /> </a> 
 <a href="https://www.jenkins.io" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" alt="jenkins" width="30px" /> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" alt="linux" width="30px" />  </a> 
 <a href="https://www.oracle.com/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" alt="oracle" width="30px" /> </a> 
