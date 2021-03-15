@@ -31,7 +31,7 @@
 
 ---
 
-### &#127942; Languages and Tools <br>
+### &#127942; Languages and Tools <br> 
 
 <p align="left">
 <a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="35px" /></a>
