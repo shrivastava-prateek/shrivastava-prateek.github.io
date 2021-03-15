@@ -11,7 +11,7 @@ jobs:
     - uses: repo-sync/github-sync@v2
       name: Sync repository to branch
       with:
-        source_repo: shrivastava-prateek
+        source_repo: "shrivastava-prateek"
         source_branch: "master"
         destination_branch: "shrivastava-prateek.github.io/master"
         github_token: ${{ secrets.GITHUB_TOKEN }}
