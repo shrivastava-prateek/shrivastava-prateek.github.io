@@ -77,6 +77,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&layout=compact&theme=gotham" alt="online-jsp-compiler" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!-- ![build](https://github.com/shrivastava-prateek/shrivastava-prateek/workflows/build/badge.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shrivastava-prateek/shrivastava-prateek)
