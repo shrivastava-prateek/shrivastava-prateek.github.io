@@ -24,7 +24,7 @@
 
 ---
 
-### Spotify Playing 🎧 <br>
+### 🎧 Spotify Playing <br>
 
 [<img src="https://spotify-now-playing-nikvq93oc-shrivastava-prateek.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/djayes90vzztiaae5j03620hp)
 
@@ -79,7 +79,7 @@
 
 ---
 
-### 📊 Coding Stats <br>
+### 📊 Weekly Coding Stats <br>
 
 <!--START_SECTION:waka-->
 ```text
@@ -89,13 +89,9 @@ Other        4 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-<!-- ![build](https://github.com/shrivastava-prateek/shrivastava-prateek/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/shrivastava-prateek/shrivastava-prateek)
-![pv](https://pageview.vercel.app/?github_user=shrivastava-prateek) -->
-
 <!-- 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=shrivastava-prateek&hide_title=true&hide_border=true&langs_count=5) -->
+ [![Prateek Shrivastava's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debugchaos)] -->
+
 
 ---
