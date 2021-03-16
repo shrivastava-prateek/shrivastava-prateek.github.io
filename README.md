@@ -77,6 +77,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&layout=compact&theme=gotham" alt="online-jsp-compiler" />
 </a>
 
+---
+
+### 📊 Coding Stats <br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
