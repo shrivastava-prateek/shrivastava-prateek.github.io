@@ -34,7 +34,7 @@
 
 <p align="left">
 <!-- <a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="35px" /></a> -->
-<a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="assets/images/angularjs.svg" alt="angularjs" width="35px" /></a>
+<a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="./assets/images/angularjs.svg" alt="angularjs" width="35px" /></a>
 <!-- <a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="30px" /> </a>  -->
 <a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="assets/images/docker.svg" alt="docker" width="30px" /> </a> 
 <a href="https://git-scm.com/" target="_blank">  <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="30px" /> </a>
