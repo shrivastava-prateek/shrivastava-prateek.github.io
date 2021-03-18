@@ -34,9 +34,9 @@
 
 <p align="left">
 <!-- <a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angularjs.svg" alt="angularjs" width="35px" /></a> -->
-<a href="https://angular.io" target="blank" class="angularjs"></a>
-<a href="https://www.arduino.cc/" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/arduino.svg" alt="arduino" width="30px" /> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="30px" /> </a> 
+<a href="https://angular.io" target="blank"><img  style = "margin-right:10px;" src="assets/images/angularjs.svg" alt="angularjs" width="35px" /></a>
+<!-- <a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="docker" width="30px" /> </a>  -->
+<a href="https://www.docker.com/" target="_blank"> <img  style = "margin-right:10px;" src="assets/images/docker.svg" alt="docker" width="30px" /> </a> 
 <a href="https://git-scm.com/" target="_blank">  <img  style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="git" width="30px" /> </a>
 <a href="https://gulpjs.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gulp.svg" alt="gulp" width="30px" /> </a> 
 <a href="https://heroku.com" target="_blank"> <img style = "margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" alt="heroku" width="30px" /> </a>
@@ -84,16 +84,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-SQL        2 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.65 % 
-Java       2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.73 % 
-YAML       1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-XML        1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Markdown   50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+SQL          2 hrs 24 mins   ███████████████████████░░   91.46 % 
+Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 <!--END_SECTION:waka-->
 
 <!-- 📊 **This week I spent my time on**
 
  [![Prateek Shrivastava's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debugchaos)] -->
+
 
 ---
