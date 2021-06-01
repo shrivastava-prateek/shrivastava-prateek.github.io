@@ -76,19 +76,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=online-jsp-compiler&show_icons=true&layout=compact&theme=gotham" alt="online-jsp-compiler" />
 </a>
 
----
-
-### 📊 Weekly Coding Stats <br>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<!-- 📊 **This week I spent my time on**
-
- [![Prateek Shrivastava's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=debugchaos)] -->
-
+<a href="https://github.com/shrivastava-prateek/angularjs-es6-webpack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrivastava-prateek&repo=vaccinebot&show_icons=true&layout=compact&theme=gotham" alt="vaccinebot" />
+</a>
 
 ---
