@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as a **Development Team Lead** having hands-on experience in Java, Spring, AngularJS and Oracle DB
 
-- :globe_with_meridians: Created online jsp compiler visit here: <a href="https://onlinejspcompiler.com"> Online JSP Compiler </a> 
+- &#x1F310; Created online jsp compiler visit here: <a href="https://onlinejspcompiler.com"> Online JSP Compiler </a> 
 
 - 🌱 I’m currently learning **Kafka**
 
