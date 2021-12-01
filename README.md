@@ -11,9 +11,9 @@
 
 ---
 
-- 🔭 I’m currently working as a **Senior Software Engineer** on Java, Spring, AngularJS and Oracle DB
+- 🔭 I’m currently working as a **Development Team Lead** having hands-on experience in Java, Spring, AngularJS and Oracle DB
 
-- 🌱 I’m currently learning **Spring-Boot, TypeScript, Docker** and exploring other technologies
+- 🌱 I’m currently learning **Kafka**
 
 -  &#129309;‍ Let's share our experiences and learn together
 
