@@ -1,21 +1,22 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Prateek Shrivastava
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Prateek Shrivastava here
 
-<a href="https://t.me/shrivastavaprateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="debugchaos" width="22px" /></a>
+<!-- <a href="https://t.me/shrivastavaprateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="debugchaos" width="22px" /></a> -->
 <a href="https://twitter.com/debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="debugchaos" width="22px" /></a>
 <a href="https://linkedin.com/in/shrivastava-prateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shrivastava-prateek" width="22px" /></a>
 <a href="https://www.hackerrank.com/debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" alt="debugchaos" width="22px" /></a>
 <a href="https://www.hackerearth.com/@debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerearth.svg" alt="@debugchaos" width="22px" /></a>
+<a href="https://www.tvtime.com/en/user/22466862/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tvtime.svg" alt="22466862" width="22px" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrivastava-prateek&label=Profile%20views&color=0e75b6&style=flat" alt="shrivastava-prateek" /> </p>
 
 ---
 
-- 🔭 I’m currently working as a **Senior Software Engineer** on Java, Spring, AngularJS and Oracle DB
+- 🔭 I’m currently working as a **Development Team Lead** on Java and Spring framework based projects. 
 
-- 🌱 I’m currently learning **Spring-Boot, TypeScript, Docker** and exploring other technologies
+- 🌱 I’m currently learning **Spring-Boot** and exploring System Design.
 
--  &#129309;‍ Let's share our experiences and learn together
+-  &#129309;‍ Let's share our experiences and grow together.
 
 <!-- <p align="center"> 
   <img src="https://profile-counter.glitch.me/shrivastava-prateek/count.svg" alt="Visitor Count" />
@@ -77,16 +78,6 @@
 </a>
 
 ---
-
-### 📊 Weekly Coding Stats <br>
-
-<!--START_SECTION:waka-->
-```text
-SQL          2 hrs 24 mins   ███████████████████████░░   91.46 % 
-Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-```
-<!--END_SECTION:waka-->
 
 <!-- 📊 **This week I spent my time on**
 
