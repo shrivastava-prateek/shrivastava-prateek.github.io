@@ -6,6 +6,7 @@
 <a href="https://www.hackerrank.com/debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" alt="debugchaos" width="22px" /></a>
 <a href="https://www.hackerearth.com/@debugchaos" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerearth.svg" alt="@debugchaos" width="22px" /></a>
 <a href="https://www.tvtime.com/en/user/22466862/profile" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tvtime.svg" alt="22466862" width="22px" /></a>
+<a href="https://github.com/shrivastava-prateek" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="shrivastava-prateek" width="22px" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrivastava-prateek&label=Profile%20views&color=0e75b6&style=flat" alt="shrivastava-prateek" /> </p>
